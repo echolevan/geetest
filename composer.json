@@ -14,8 +14,8 @@
             "Levan\\Geetest\\":"src/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
-        "levan/geetest": "dev-master"
+        "levan/geetest": "2.0"
     }
 }
