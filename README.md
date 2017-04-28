@@ -47,6 +47,10 @@ php artisan vendor:publish --tag=levan-geetest
 ``Vue``
 
 ##### Example.vue
+``` 
+//在公共模版引用这个 放在 app.js 下面
+<script src="http://static.geetest.com/static/tools/gt.js"></script>
+```
 ```
 <template>
     <div class="container">

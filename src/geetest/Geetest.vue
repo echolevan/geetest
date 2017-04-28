@@ -55,11 +55,11 @@
         methods :{
             error(){
                 // 提交表未验证的方法
-                this.$emit(error);
+                this.$emit('error');
             },
             success(){
                 // 提交表单验证执行的方法
-                this.$emit(success);
+                this.$emit('success');
             }
         }
     }
