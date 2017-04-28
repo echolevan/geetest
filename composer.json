@@ -6,7 +6,7 @@
     "authors": [
         {
             "name": "Levan",
-            "email": "dawuhanphp@163.com"
+            "email": "echolevan@gmail.com"
         }
     ],
     "autoload":{
@@ -16,6 +16,6 @@
     },
     "minimum-stability": "stable",
     "require": {
-        "levan/geetest": "4.0"
+        "levan/geetest": "1.0"
     }
 }
