@@ -1,0 +1,21 @@
+{
+    "name": "levan/geetest",
+    "description": "This is geetest 3.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Levan",
+            "email": "dawuhanphp@163.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "Levan\\Geetest\\":"src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "levan/geetest": "4.0"
+    }
+}
